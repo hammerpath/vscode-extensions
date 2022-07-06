@@ -1,5 +1,5 @@
 {
-	"recommendations": [
+  "recommendations": [
     "dbaeumer.vscode-eslint",
     "editorconfig.editorconfig",
     "esbenp.prettier-vscode",
@@ -8,5 +8,5 @@
     "rangav.vscode-thunder-client",
     "vscode-icons-team.vscode-icons",
     "oderwat.indent-rainbow"
-	]
+  ]
 }
