@@ -9,7 +9,9 @@
     "esbenp.prettier-vscode",
 		"p42ai.refactor",
 		"bradlc.vscode-tailwindcss",
-    "rangav.vscode-thunder-client"
+    "rangav.vscode-thunder-client",
+    "vscode-icons-team.vscode-icons",
+    "oderwat.indent-rainbow"
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": [
